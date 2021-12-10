@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 
 import random
-from vars import rock
-from vars import paper
-from vars import scissors
+from vars import rock, paper, scissors
 
 game_images = [rock, paper, scissors]
 
